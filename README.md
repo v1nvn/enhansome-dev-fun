@@ -1,4 +1,4 @@
-# Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,706 | 🐛 70 | 📅 2026-01-28 with stars
+# Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,982 | 🐛 70 | 📅 2026-01-28 with stars
 
 > A curated list of fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 
@@ -54,22 +54,22 @@ For now this is a really short list, so please contribute. Read [the guide](orig
 
 ## Java
 
-* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,273 | 🐛 538 | 🌐 Java | 📅 2024-07-15 - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
+* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,278 | 🐛 538 | 🌐 Java | 📅 2024-07-15 - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 
 ## JavaScript
 
-* [not-paid.js](https://github.com/kleampa/not-paid) ⭐ 15,586 | 🐛 10 | 🌐 JavaScript | 📅 2025-04-28 - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
+* [not-paid.js](https://github.com/kleampa/not-paid) ⭐ 15,587 | 🐛 10 | 🌐 JavaScript | 📅 2025-04-28 - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
 * [jsFuck](https://github.com/aemkei/jsfuck) ⭐ 8,560 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10
 * [Elevator.js](https://github.com/tholman/elevator.js) ⭐ 6,637 | 🐛 19 | 🌐 JavaScript | 📅 2020-06-26 - Finally, a "back to top" button that behaves like a real elevator.
-* [is-thirteen](https://github.com/jezen/is-thirteen) ⭐ 6,176 | 🐛 418 | 🌐 JavaScript | 📅 2026-01-29 - Check if a number is equal to 13.
-* [FuckitJS](https://github.com/mattdiamond/fuckitjs) ⭐ 4,186 | 🐛 36 | 🌐 JavaScript | 📅 2023-07-01 - JavaScript Error Steamroller.
+* [is-thirteen](https://github.com/jezen/is-thirteen) ⭐ 6,178 | 🐛 418 | 🌐 JavaScript | 📅 2026-01-29 - Check if a number is equal to 13.
+* [FuckitJS](https://github.com/mattdiamond/fuckitjs) ⭐ 4,187 | 🐛 36 | 🌐 JavaScript | 📅 2023-07-01 - JavaScript Error Steamroller.
 * [Echochamber.js](https://github.com/tessalt/echo-chamber-js) ⭐ 4,122 | 🐛 12 | 🌐 JavaScript | 📅 2019-05-10 - Commenting without the comments - providing a single-sided user comments just stored in local storage.
 * [fartscroll.js](https://github.com/theonion/fartscroll.js) ⚠️ Archived - Everyone farts. And now your web pages can too.
 * [vapor.js](https://github.com/madrobby/vapor.js) ⭐ 1,404 | 🐛 62 | 🌐 JavaScript | 📅 2022-07-19 - The World's Smallest & Fastest JavaScript Library.
 * [ComcastifyJS](https://github.com/theonion/comcastifyjs) ⚠️ Archived - Sometimes images just load too damned fast.
 * [fattest-cat](https://github.com/lexiross/fattest-cat) ⭐ 736 | 🐛 13 | 🌐 JavaScript | 📅 2023-09-25 - Script to find fattest cat currently up for adoption at SF SPCA.
 * [eslint-plugin-replyguy](https://github.com/jlengstorf/eslint-plugin-replyguy) ⭐ 419 | 🐛 6 | 🌐 JavaScript | 📅 2020-08-10 - The ESLint plugin you definitely didn’t ask for.
-* [undefined-is-a-function](https://github.com/donavon/undefined-is-a-function) ⭐ 244 | 🐛 3 | 🌐 JavaScript | 📅 2020-12-16 - "undefined is not a function"? — It is now!
+* [undefined-is-a-function](https://github.com/donavon/undefined-is-a-function) ⭐ 245 | 🐛 3 | 🌐 JavaScript | 📅 2020-12-16 - "undefined is not a function"? — It is now!
 * [Object.toSting()](https://github.com/teropa/to-sting) ⭐ 204 | 🐛 3 | 📅 2016-04-18 - Logs an image of Sting to the development console.
 * [Pettier](https://github.com/coleturner/pettier) ⭐ 162 | 🐛 0 | 🌐 JavaScript | 📅 2019-10-10 - Prettier config that randomizes options and arbitrarily switches between spaces and tabs 🙄
 * [Sarcasm](https://github.com/komlev/sarcasm) ⭐ 119 | 🐛 4 | 🌐 JavaScript | 📅 2019-01-25 - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids.
@@ -111,7 +111,7 @@ For now this is a really short list, so please contribute. Read [the guide](orig
 * [ArnoldC](https://github.com/lhartikk/ArnoldC) ⭐ 6,864 | 🐛 73 | 🌐 Scala | 📅 2024-01-31 - Arnold Schwarzenegger based programming language.
 * [Vigil](https://github.com/munificent/vigil) ⭐ 3,023 | 🐛 24 | 🌐 Python | 📅 2022-09-26 - Vigil, the eternal morally vigilant programming language.
 * [strategic-communication](https://github.com/rotoclone/strategic-communication) ⭐ 313 | 🐛 3 | 🌐 Rust | 📅 2020-12-20 - A best-of-breed language with a holistic approach to moving the needle.
-* [Spooky](https://github.com/ftripier/spookyc) ⭐ 151 | 🐛 4 | 🌐 OCaml | 📅 2018-11-09 - The Programming Language of Fear 🌚.
+* [Spooky](https://github.com/ftripier/spookyc) ⭐ 152 | 🐛 4 | 🌐 OCaml | 📅 2018-11-09 - The Programming Language of Fear 🌚.
 * [Rockstar](https://github.com/dylanbeattie/rockstar) ⭐ 90 | 🐛 0 | 🌐 JavaScript | 📅 2021-12-15 - A dynamically typed computer programming language, designed for creating programs that are also song lyrics.
 * [OnlyToday](https://github.com/molnarmark/onlytoday) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2018-02-28 - A date and time based programming language.
 
@@ -136,15 +136,15 @@ For now this is a really short list, so please contribute. Read [the guide](orig
 
 ## CLI
 
-* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 184,877 | 🐛 523 | 🌐 Shell | 📅 2026-02-19 - A Chuck Norris fortune plugin for ZSH.
-* [genact](https://github.com/svenstaro/genact) ⭐ 11,895 | 🐛 9 | 🌐 Rust | 📅 2026-02-01 - 🌀 A nonsense activity generator for your shell.
-* [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,583 | 🐛 21 | 🌐 Shell | 📅 2023-12-04 - Blame someone else for your bad code.
-* [No More Secrets](https://github.com/bartobri/no-more-secrets) ⭐ 7,749 | 🐛 1 | 🌐 C | 📅 2025-12-13 - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
-* [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,490 | 🐛 30 | 🌐 Ruby | 📅 2024-03-05 - Rainbows and unicorns!
-* [cmatrix](https://github.com/abishekvashok/cmatrix) ⭐ 4,932 | 🐛 75 | 🌐 C | 📅 2024-08-21 - Make it digital rain in your terminal like The Matrix.
-* [lolcommits](https://github.com/mroth/lolcommits) ⭐ 4,809 | 🐛 40 | 🌐 Ruby | 📅 2026-02-11 - Git-based selfies for software developers.
+* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 184,895 | 🐛 524 | 🌐 Shell | 📅 2026-02-19 - A Chuck Norris fortune plugin for ZSH.
+* [genact](https://github.com/svenstaro/genact) ⭐ 11,898 | 🐛 9 | 🌐 Rust | 📅 2026-02-01 - 🌀 A nonsense activity generator for your shell.
+* [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,586 | 🐛 21 | 🌐 Shell | 📅 2023-12-04 - Blame someone else for your bad code.
+* [No More Secrets](https://github.com/bartobri/no-more-secrets) ⭐ 7,751 | 🐛 1 | 🌐 C | 📅 2025-12-13 - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+* [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,492 | 🐛 30 | 🌐 Ruby | 📅 2024-03-05 - Rainbows and unicorns!
+* [cmatrix](https://github.com/abishekvashok/cmatrix) ⭐ 4,933 | 🐛 75 | 🌐 C | 📅 2024-08-21 - Make it digital rain in your terminal like The Matrix.
+* [lolcommits](https://github.com/mroth/lolcommits) ⭐ 4,809 | 🐛 40 | 🌐 Ruby | 📅 2026-02-21 - Git-based selfies for software developers.
 * [sl](https://github.com/mtoyoda/sl) ⭐ 3,225 | 🐛 39 | 🌐 C | 📅 2024-06-11 - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
-* [pipes.sh](https://github.com/pipeseroni/pipes.sh) ⭐ 2,923 | 🐛 13 | 🌐 Shell | 📅 2024-08-12 - Animated pipes terminal screensaver.
+* [pipes.sh](https://github.com/pipeseroni/pipes.sh) ⭐ 2,922 | 🐛 13 | 🌐 Shell | 📅 2024-08-12 - Animated pipes terminal screensaver.
 * [evil.sh](https://github.com/mathiasbynens/evil.sh) ⭐ 2,202 | 🐛 42 | 🌐 Shell | 📅 2023-04-25 - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 * [nSnake](https://github.com/alexdantas/nSnake) ⭐ 218 | 🐛 23 | 🌐 C++ | 📅 2023-09-27 - Snake game in terminal!
 * [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) ⭐ 206 | 🐛 3 | 🌐 Shell | 📅 2018-02-16 - Boost your "productivity" to the max! A productivity suite made for slackers by slackers.
@@ -158,8 +158,8 @@ For now this is a really short list, so please contribute. Read [the guide](orig
 
 ## DevOps
 
-* [No Code](https://github.com/kelseyhightower/nocode) ⭐ 64,747 | 🐛 4,637 | 🌐 Dockerfile | 📅 2024-08-07 - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-* [Volkswagen](https://github.com/auchenberg/volkswagen) ⭐ 15,402 | 🐛 24 | 🌐 JavaScript | 📅 2025-10-10 - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
+* [No Code](https://github.com/kelseyhightower/nocode) ⭐ 64,749 | 🐛 4,639 | 🌐 Dockerfile | 📅 2024-08-07 - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+* [Volkswagen](https://github.com/auchenberg/volkswagen) ⭐ 15,403 | 🐛 24 | 🌐 JavaScript | 📅 2025-10-10 - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 * [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) ⭐ 1,176 | 🐛 17 | 🌐 Go | 📅 2024-05-28 - The Terraform plugin for the Dominos Pizza provider.
 
 ## Miscellaneous
