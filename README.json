@@ -563,7 +563,7 @@
             "last_commit": "2024-01-31T22:40:52Z",
             "owner": "lhartikk",
             "repo": "ArnoldC",
-            "stars": 6877
+            "stars": 6875
           }
         },
         {
@@ -850,7 +850,7 @@
             "last_commit": "2026-02-21T02:45:16Z",
             "owner": "lolcommits",
             "repo": "lolcommits",
-            "stars": 4810
+            "stars": 4809
           }
         },
         {
@@ -863,7 +863,7 @@
             "last_commit": "2024-06-11T23:15:48Z",
             "owner": "mtoyoda",
             "repo": "sl",
-            "stars": 3240
+            "stars": 3243
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2026-03-09T23:22:30Z",
             "owner": "svenstaro",
             "repo": "genact",
-            "stars": 11953
+            "stars": 11952
           }
         },
         {
@@ -951,10 +951,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-03-24T07:54:43Z",
+            "last_commit": "2026-03-26T19:09:57Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 185633
+            "stars": 185662
           }
         },
         {
@@ -967,7 +967,7 @@
             "last_commit": "2023-12-04T14:41:06Z",
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11593
+            "stars": 11592
           }
         },
         {
@@ -980,7 +980,7 @@
             "last_commit": "2024-08-21T02:41:08Z",
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 4990
+            "stars": 4992
           }
         },
         {
@@ -1038,7 +1038,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65052
+            "stars": 65057
           }
         },
         {
@@ -1140,7 +1140,7 @@
             "last_commit": "2026-01-17T10:39:34Z",
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4410
+            "stars": 4411
           }
         },
         {
@@ -1166,7 +1166,7 @@
             "last_commit": "2019-07-02T11:23:43Z",
             "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
             "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-            "stars": 10576
+            "stars": 10574
           }
         },
         {
@@ -1179,7 +1179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-26T04:28:36.811Z",
+    "last_updated": "2026-03-27T04:29:53.019Z",
     "original_repository": "mislavcimpersak/awesome-dev-fun",
     "source_repository": "v1nvn/enhansome-dev-fun",
     "source_repository_description": null,
