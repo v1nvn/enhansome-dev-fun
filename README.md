@@ -1,4 +1,4 @@
-# Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 455,761 | 🐛 63 | 📅 2026-04-02 with stars
+# Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 456,116 | 🐛 64 | 📅 2026-04-02 with stars
 
 > A curated list of fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 
@@ -32,7 +32,7 @@ For now this is a really short list, so please contribute. Read [the guide](orig
 
 ## CSS
 
-* [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,587 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
+* [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,588 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [DICSS](https://github.com/letsgetrandy/DICSS) ⭐ 1,349 | 🐛 31 | 🌐 JavaScript | 📅 2015-12-18 - Directly injected CSS.
 
 ## Elixir
@@ -54,7 +54,7 @@ For now this is a really short list, so please contribute. Read [the guide](orig
 
 ## Java
 
-* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,607 | 🐛 545 | 🌐 Java | 📅 2024-07-15 - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
+* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,609 | 🐛 545 | 🌐 Java | 📅 2024-07-15 - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 
 ## JavaScript
 
@@ -127,7 +127,7 @@ For now this is a really short list, so please contribute. Read [the guide](orig
 
 ## Browser extensions
 
-* [Github XP](https://github.com/martenbjork/github-xp) ⭐ 2,655 | 🐛 15 | 📅 2025-11-01 - Microsoft + GitHub = ❤️. Make it official by giving your GitHub experience some Windows XP flair.
+* [Github XP](https://github.com/martenbjork/github-xp) ⭐ 2,656 | 🐛 15 | 📅 2025-11-01 - Microsoft + GitHub = ❤️. Make it official by giving your GitHub experience some Windows XP flair.
 * [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) ⭐ 1,498 | 🐛 18 | 🌐 JavaScript | 📅 2024-02-19 - Chrome extension that replaces occurrences of 'the cloud' with 'my butt'.
 * [Outcognito Mode](https://github.com/hrldcpr/outcognito-mode) ⚠️ Archived - Incognito Mode for extroverts.
 * [NonAd Block](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) - Blocks any content that is not an ad.
@@ -136,15 +136,15 @@ For now this is a really short list, so please contribute. Read [the guide](orig
 
 ## CLI
 
-* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 186,218 | 🐛 540 | 🌐 Shell | 📅 2026-04-13 - A Chuck Norris fortune plugin for ZSH.
-* [genact](https://github.com/svenstaro/genact) ⭐ 11,988 | 🐛 12 | 🌐 Rust | 📅 2026-04-06 - 🌀 A nonsense activity generator for your shell.
-* [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,613 | 🐛 21 | 🌐 Shell | 📅 2023-12-04 - Blame someone else for your bad code.
-* [No More Secrets](https://github.com/bartobri/no-more-secrets) ⭐ 7,774 | 🐛 1 | 🌐 C | 📅 2025-12-13 - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
-* [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,523 | 🐛 30 | 🌐 Ruby | 📅 2024-03-05 - Rainbows and unicorns!
-* [cmatrix](https://github.com/abishekvashok/cmatrix) ⭐ 5,027 | 🐛 78 | 🌐 C | 📅 2024-08-21 - Make it digital rain in your terminal like The Matrix.
+* [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) ⭐ 186,251 | 🐛 541 | 🌐 Shell | 📅 2026-04-16 - A Chuck Norris fortune plugin for ZSH.
+* [genact](https://github.com/svenstaro/genact) ⭐ 11,991 | 🐛 12 | 🌐 Rust | 📅 2026-04-06 - 🌀 A nonsense activity generator for your shell.
+* [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,616 | 🐛 21 | 🌐 Shell | 📅 2023-12-04 - Blame someone else for your bad code.
+* [No More Secrets](https://github.com/bartobri/no-more-secrets) ⭐ 7,775 | 🐛 1 | 🌐 C | 📅 2025-12-13 - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+* [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,524 | 🐛 30 | 🌐 Ruby | 📅 2024-03-05 - Rainbows and unicorns!
+* [cmatrix](https://github.com/abishekvashok/cmatrix) ⭐ 5,029 | 🐛 78 | 🌐 C | 📅 2024-08-21 - Make it digital rain in your terminal like The Matrix.
 * [lolcommits](https://github.com/mroth/lolcommits) ⭐ 4,809 | 🐛 40 | 🌐 Ruby | 📅 2026-04-01 - Git-based selfies for software developers.
-* [sl](https://github.com/mtoyoda/sl) ⭐ 3,257 | 🐛 38 | 🌐 C | 📅 2024-06-11 - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
-* [pipes.sh](https://github.com/pipeseroni/pipes.sh) ⭐ 2,956 | 🐛 13 | 🌐 Shell | 📅 2024-08-12 - Animated pipes terminal screensaver.
+* [sl](https://github.com/mtoyoda/sl) ⭐ 3,258 | 🐛 38 | 🌐 C | 📅 2024-06-11 - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
+* [pipes.sh](https://github.com/pipeseroni/pipes.sh) ⭐ 2,957 | 🐛 13 | 🌐 Shell | 📅 2024-08-12 - Animated pipes terminal screensaver.
 * [evil.sh](https://github.com/mathiasbynens/evil.sh) ⭐ 2,200 | 🐛 42 | 🌐 Shell | 📅 2023-04-25 - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 * [nSnake](https://github.com/alexdantas/nSnake) ⭐ 220 | 🐛 23 | 🌐 C++ | 📅 2023-09-27 - Snake game in terminal!
 * [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) ⭐ 206 | 🐛 3 | 🌐 Shell | 📅 2018-02-16 - Boost your "productivity" to the max! A productivity suite made for slackers by slackers.
@@ -158,7 +158,7 @@ For now this is a really short list, so please contribute. Read [the guide](orig
 
 ## DevOps
 
-* [No Code](https://github.com/kelseyhightower/nocode) ⭐ 65,181 | 🐛 4,706 | 🌐 Dockerfile | 📅 2024-08-07 - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+* [No Code](https://github.com/kelseyhightower/nocode) ⭐ 65,185 | 🐛 4,706 | 🌐 Dockerfile | 📅 2024-08-07 - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 * [Volkswagen](https://github.com/auchenberg/volkswagen) ⭐ 15,418 | 🐛 23 | 🌐 JavaScript | 📅 2026-02-27 - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 * [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) ⭐ 1,178 | 🐛 17 | 🌐 Go | 📅 2024-05-28 - The Terraform plugin for the Dominos Pizza provider.
 
