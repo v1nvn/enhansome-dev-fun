@@ -140,7 +140,7 @@
             "last_commit": "2020-06-26T15:20:00Z",
             "owner": "tholman",
             "repo": "elevator.js",
-            "stars": 6642
+            "stars": 6643
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2019-12-04T13:55:30Z",
             "owner": "samshadwell",
             "repo": "TrumpScript",
-            "stars": 7585
+            "stars": 7586
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2024-11-20T09:30:34Z",
             "owner": "tomdionysus",
             "repo": "foaas",
-            "stars": 3065
+            "stars": 3064
           }
         },
         {
@@ -824,7 +824,7 @@
             "last_commit": "2024-03-05T16:19:55Z",
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6539
+            "stars": 6541
           }
         },
         {
@@ -850,7 +850,7 @@
             "last_commit": "2026-04-19T18:33:35Z",
             "owner": "lolcommits",
             "repo": "lolcommits",
-            "stars": 4812
+            "stars": 4811
           }
         },
         {
@@ -863,7 +863,7 @@
             "last_commit": "2024-06-11T23:15:48Z",
             "owner": "mtoyoda",
             "repo": "sl",
-            "stars": 3280
+            "stars": 3281
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2026-06-01T16:39:32Z",
             "owner": "svenstaro",
             "repo": "genact",
-            "stars": 12082
+            "stars": 12084
           }
         },
         {
@@ -902,7 +902,7 @@
             "last_commit": "2025-12-13T20:01:58Z",
             "owner": "bartobri",
             "repo": "no-more-secrets",
-            "stars": 7793
+            "stars": 7794
           }
         },
         {
@@ -941,7 +941,7 @@
             "last_commit": "2024-08-12T05:25:41Z",
             "owner": "pipeseroni",
             "repo": "pipes.sh",
-            "stars": 2979
+            "stars": 2980
           }
         },
         {
@@ -954,7 +954,7 @@
             "last_commit": "2026-06-01T09:06:46Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 187804
+            "stars": 187831
           }
         },
         {
@@ -967,7 +967,7 @@
             "last_commit": "2023-12-04T14:41:06Z",
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11642
+            "stars": 11644
           }
         },
         {
@@ -980,7 +980,7 @@
             "last_commit": "2024-08-21T02:41:08Z",
             "owner": "abishekvashok",
             "repo": "cmatrix",
-            "stars": 5108
+            "stars": 5110
           }
         },
         {
@@ -1038,7 +1038,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65349
+            "stars": 65352
           }
         },
         {
@@ -1127,7 +1127,7 @@
             "last_commit": "2026-04-01T05:03:09Z",
             "owner": "philipl",
             "repo": "pifs",
-            "stars": 6900
+            "stars": 6899
           }
         },
         {
@@ -1179,7 +1179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-06T05:49:09.335Z",
+    "last_updated": "2026-06-07T06:17:35.688Z",
     "original_repository": "mislavcimpersak/awesome-dev-fun",
     "source_repository": "v1nvn/enhansome-dev-fun",
     "source_repository_description": null,
